@@ -157,7 +157,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger('HubSimulator')
 
-API_ENDPOINT = "https://api-tracking.hard-softwerk.com/data"
+# API_ENDPOINT = "https://api-tracking.hard-softwerk.com/data"
+API_ENDPOINT = "https://apx-tracking.hard-softwerk.com/data"
 
 HUBS_CONFIG = [
     {
