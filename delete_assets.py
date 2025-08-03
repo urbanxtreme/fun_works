@@ -3,7 +3,7 @@ import json
 
 # ---------------- USER CONFIG ----------------
 DELETE_URL = "https://apx.aneeshprasobhan.xyz/delete-assets"
-BEARER_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNrcmhhcmkyMDIwQGdtYWlsLmNvbSIsInVzZXJfdHlwZSI6IlN1cGVyIEFkbWluIiwib3JnIjoiSFNXIiwiaWF0IjoxNzU0MDMwNjU1LCJleHAiOjE3NTY2MjI2NTV9.eeP0nok_XVqpRWq3tSmC57K35DN4vRefXw4EMob0F2c"
+BEARER_TOKEN = "huh, why do you need that"
 
 # Replace this list with actual MACs if known
 mac_addresses_to_delete = [

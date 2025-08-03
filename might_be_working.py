@@ -15,7 +15,7 @@ logging.basicConfig(
 logger = logging.getLogger("HubAssetSimulator")
 
 API_ENDPOINT = "https://apx.aneeshprasobhan.xyz/data"
-X_API_KEY = "c85468ead245bab0329764b0a02cc9b6"
+X_API_KEY = "again, hell nahhh!!"
 
 if not os.path.exists("created_data.json"):
     logger.error("'created_data.json' ot found bruhh!!")

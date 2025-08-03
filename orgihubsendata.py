@@ -15,7 +15,7 @@ logger = logging.getLogger('HubSimulator')
 # Configuration
 API_ENDPOINT = "https://api-tracking.hard-softwerk.com/data"
 
-X_API_KEY = "bd8693649f121a16a6e8a40766eb6d02"
+X_API_KEY = "ohh, hell nahhh!!!"
 
 # Hub configurations with different zones
 HUBS_CONFIG = [

@@ -73,7 +73,7 @@
 import requests
 
 # -------------------- CONFIG --------------------
-AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNrcmhhcmkyMDIwQGdtYWlsLmNvbSIsInVzZXJfdHlwZSI6IlN1cGVyIEFkbWluIiwib3JnIjoiSFNXIiwiaWF0IjoxNzU0MjA0MjU4LCJleHAiOjE3NTY3OTYyNTh9.yp1m-6ArvjhYsAHkmrGDF5oZqtumWVUq-24T5x4pwyk"  # 🔐 Replace with actual token
+AUTH_TOKEN = "nahhhh, never!!"
 
 GET_HUBS_ENDPOINT = (
     "https://apx.aneeshprasobhan.xyz/hubs?"
