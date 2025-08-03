@@ -1,0 +1,66 @@
+{
+  "assets": {
+    "asset_1": "7C23BCEEA815",
+    "asset_2": "B9537A6920EF",
+    "asset_3": "634F0914CBC7",
+    "asset_4": "E9B47ABD323B",
+    "asset_5": "4A986F41CA73",
+    "asset_6": "48FD46CD632E",
+    "asset_7": "FC17FA262F6B",
+    "asset_8": "BA349790BD7D",
+    "asset_9": "7912821F1FD0",
+    "asset_10": "CD24C218F136"
+  },
+  "hubs": [
+    {
+      "hubId": "hubB140E84B",
+      "name": "Test222",
+      "zone": "Test222",
+      "interval": 1.0,
+      "rssi_range": [
+        -80,
+        -40
+      ]
+    },
+    {
+      "hubId": "hub6A2DB300",
+      "name": "Test333",
+      "zone": "Test333",
+      "interval": 1.0,
+      "rssi_range": [
+        -80,
+        -40
+      ]
+    },
+    {
+      "hubId": "hub1BE0A5C1",
+      "name": "Test222",
+      "zone": "Test222",
+      "interval": 1.0,
+      "rssi_range": [
+        -80,
+        -40
+      ]
+    },
+    {
+      "hubId": "hub8093C320",
+      "name": "Test333",
+      "zone": "Test333",
+      "interval": 1.0,
+      "rssi_range": [
+        -80,
+        -40
+      ]
+    },
+    {
+      "hubId": "hub3C3FADA8",
+      "name": "Test222",
+      "zone": "Test222",
+      "interval": 1.0,
+      "rssi_range": [
+        -80,
+        -40
+      ]
+    }
+  ]
+}
